@@ -1,6 +1,6 @@
 # Machine Learning
 
-This folder contains my ML course assignments as well as some personal work.
+This folder contains my ML course assignments
 
 ## ML course assignments
 * Linear Regression
