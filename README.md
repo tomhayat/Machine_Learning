@@ -9,6 +9,3 @@ This folder contains my ML course assignments as well as some personal work.
 * K-means
 * Recommender Systems
 
-## Kaggle: bike sharing
-* Descriptive statistics
-* Predictive models
